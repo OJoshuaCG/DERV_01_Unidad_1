@@ -1,6 +1,8 @@
-# DERV_01_Unidad_1
+# Desarrollo de Entornos de Realidad Virtual
+## Unidad 1
+## Fundamentos de realidad virtual
  
-## Grupo I - Equipo 1
+### Grupo I - Equipo 1
 * Carrasco Garcia Orlando Joshua
 * Silva Gabino Victor Alberto
 * Sosa Valdes Brandon Alejandro
